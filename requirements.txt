@@ -1,0 +1,11 @@
+george
+imageio
+imageio-ffmpeg
+matplotlib
+numpy
+pandas
+pyDOE
+ray
+scikit-learn
+scikit-learn-extra
+scipy
